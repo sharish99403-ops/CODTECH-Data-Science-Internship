@@ -19,7 +19,7 @@ This project demonstrates an ETL pipeline using Python, Pandas, and Scikit-learn
 - Saved processed data
 
 ### Output:
-Processed dataset saved as processed_data.csv
+"https://github.com/user-attachments/assets/c1b5036f-4c5f-461c-b759-a4eeb9671479" />
 
 ### Learning Outcome
 - Understood ETL process (Extract, Transform, Load)
