@@ -26,3 +26,28 @@ This project demonstrates an ETL pipeline using Python, Pandas, and Scikit-learn
 - Implemented data preprocessing using Scikit-learn Pipelines
 - Gained hands-on experience in data transformation techniques
 - Improved practical Python skills
+
+
+
+---
+
+## Task 2 – Deep Learning Image Classification
+
+This task implements an image classification model using TensorFlow and Keras.
+
+### Dataset:
+MNIST handwritten digits dataset
+
+### Model:
+- Sequential Neural Network
+- Dense layers with ReLU activation
+- Softmax output layer
+
+### Result:
+Model achieved approximately 97%–99% test accuracy.
+
+### Visualization:
+Accuracy graph plotted for training and validation performance.
+
+
+
