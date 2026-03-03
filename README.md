@@ -44,11 +44,11 @@ MNIST handwritten digits dataset
 - Softmax output layer
 
 ### Result:
-![Uploading task2.png…]()
+<img width="775" height="188" alt="Image" src="https://github.com/user-attachments/assets/e86be991-d621-4628-a9b9-44c30fa9e065" />
 
 
 ### Visualization:
-Accuracy graph plotted for training and validation performance.
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/89751c4a-1bc2-42ac-9ae1-928815aa842d" />
 
 
 
