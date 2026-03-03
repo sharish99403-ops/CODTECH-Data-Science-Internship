@@ -44,7 +44,8 @@ MNIST handwritten digits dataset
 - Softmax output layer
 
 ### Result:
-Model achieved approximately 97%–99% test accuracy.
+![Uploading task2.png…]()
+
 
 ### Visualization:
 Accuracy graph plotted for training and validation performance.
